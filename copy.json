@@ -1,0 +1,1496 @@
+[
+  {
+    "station_name": "Ambawadi"
+  },
+  {
+    "station_name": "Ambli"
+  },
+  {
+    "station_name": "Amraiwadi"
+  },
+  {
+    "station_name": "Anandnagar"
+  },
+  {
+    "station_name": "Asarwa"
+  },
+  {
+    "station_name": "Ashram"
+  },
+  {
+    "station_name": "Aslali"
+  },
+  {
+    "station_name": "Azad"
+  },
+  {
+    "station_name": "Bakrol"
+  },
+  {
+    "station_name": "Bapunagar"
+  },
+  {
+    "station_name": "Bareja"
+  },
+  {
+    "station_name": "Behrampura"
+  },
+  {
+    "station_name": "Bhairavnath"
+  },
+  {
+    "station_name": "Bhat"
+  },
+  {
+    "station_name": "Bhavda"
+  },
+  {
+    "station_name": "Bhuvaldi"
+  },
+  {
+    "station_name": "Bilasia"
+  },
+  {
+    "station_name": "Bodakdev"
+  },
+  {
+    "station_name": "Bopal"
+  },
+  {
+    "station_name": "Calico"
+  },
+  {
+    "station_name": "Cantonment"
+  },
+  {
+    "station_name": "Chandial"
+  },
+  {
+    "station_name": "Chandkheda"
+  },
+  {
+    "station_name": "Chaulaj"
+  },
+  {
+    "station_name": "Civil"
+  },
+  {
+    "station_name": "Ctm"
+  },
+  {
+    "station_name": "D"
+  },
+  {
+    "station_name": "Dariapur"
+  },
+  {
+    "station_name": "Darpan"
+  },
+  {
+    "station_name": "Daxini"
+  },
+  {
+    "station_name": "Delhi"
+  },
+  {
+    "station_name": "Dhamatvan"
+  },
+  {
+    "station_name": "District"
+  },
+  {
+    "station_name": "Dudheshwar"
+  },
+  {
+    "station_name": "Ellisbridge"
+  },
+  {
+    "station_name": "Fatewadi"
+  },
+  {
+    "station_name": "Gamdi"
+  },
+  {
+    "station_name": "Gandhi"
+  },
+  {
+    "station_name": "Geratpur"
+  },
+  {
+    "station_name": "Ghatlodia"
+  },
+  {
+    "station_name": "Gheekanta"
+  },
+  {
+    "station_name": "Ghodasar"
+  },
+  {
+    "station_name": "Ghuma"
+  },
+  {
+    "station_name": "Girdharnagar"
+  },
+  {
+    "station_name": "Girmatha"
+  },
+  {
+    "station_name": "Gita"
+  },
+  {
+    "station_name": "Gomtipur"
+  },
+  {
+    "station_name": "Gujarat"
+  },
+  {
+    "station_name": "Gyaspur"
+  },
+  {
+    "station_name": "Harniav"
+  },
+  {
+    "station_name": "Hirapur"
+  },
+  {
+    "station_name": "I"
+  },
+  {
+    "station_name": "Isanpur"
+  },
+  {
+    "station_name": "Jamalpur"
+  },
+  {
+    "station_name": "Jawahar"
+  },
+  {
+    "station_name": "Jetalpur"
+  },
+  {
+    "station_name": "Jivraj"
+  },
+  {
+    "station_name": "Jodhpur"
+  },
+  {
+    "station_name": "Juhapura"
+  },
+  {
+    "station_name": "Kabir"
+  },
+  {
+    "station_name": "Kalupur"
+  },
+  {
+    "station_name": "Kanbha"
+  },
+  {
+    "station_name": "Kaniyel"
+  },
+  {
+    "station_name": "Kasindra"
+  },
+  {
+    "station_name": "Kathwada"
+  },
+  {
+    "station_name": "Kathwada Maize Product"
+  },
+  {
+    "station_name": "Khadia"
+  },
+  {
+    "station_name": "Khanpur Ahmedabad"
+  },
+  {
+    "station_name": "Khodiyarnagar"
+  },
+  {
+    "station_name": "Khokhara Mehmadabad"
+  },
+  {
+    "station_name": "Kolat"
+  },
+  {
+    "station_name": "Krishnanagar Ahmedabad"
+  },
+  {
+    "station_name": "Kubadthal"
+  },
+  {
+    "station_name": "Kubernagar B A"
+  },
+  {
+    "station_name": "Kubernagar"
+  },
+  {
+    "station_name": "Kuha"
+  },
+  {
+    "station_name": "Kujad"
+  },
+  {
+    "station_name": "L G Hospital"
+  },
+  {
+    "station_name": "Lal Darwaja"
+  },
+  {
+    "station_name": "Lambha"
+  },
+  {
+    "station_name": "Limbadia"
+  },
+  {
+    "station_name": "M D Marg"
+  },
+  {
+    "station_name": "Madhupura Market"
+  },
+  {
+    "station_name": "Mahijada"
+  },
+  {
+    "station_name": "Manek Chowk"
+  },
+  {
+    "station_name": "Manekbag"
+  },
+  {
+    "station_name": "Maninagar"
+  },
+  {
+    "station_name": "Medra"
+  },
+  {
+    "station_name": "Meghaningar"
+  },
+  {
+    "station_name": "Memnagar"
+  },
+  {
+    "station_name": "Miroli"
+  },
+  {
+    "station_name": "Motera"
+  },
+  {
+    "station_name": "Muktipur"
+  },
+  {
+    "station_name": "Municipal Corporation"
+  },
+  {
+    "station_name": "N C Market"
+  },
+  {
+    "station_name": "N C Mills"
+  },
+  {
+    "station_name": "Nana Chiloda"
+  },
+  {
+    "station_name": "Nandej"
+  },
+  {
+    "station_name": "Naranpura Vistar"
+  },
+  {
+    "station_name": "Narayannagar"
+  },
+  {
+    "station_name": "Naroda I E"
+  },
+  {
+    "station_name": "Naroda Road"
+  },
+  {
+    "station_name": "Naroda S A"
+  },
+  {
+    "station_name": "Naroda"
+  },
+  {
+    "station_name": "Narol"
+  },
+  {
+    "station_name": "Nava Vadaj"
+  },
+  {
+    "station_name": "Navapura"
+  },
+  {
+    "station_name": "Navjivan"
+  },
+  {
+    "station_name": "Navrangpura"
+  },
+  {
+    "station_name": "Nikol"
+  },
+  {
+    "station_name": "Noblenagar"
+  },
+  {
+    "station_name": "O N G C"
+  },
+  {
+    "station_name": "Ode"
+  },
+  {
+    "station_name": "Odhav Industrial Estate"
+  },
+  {
+    "station_name": "Odhav"
+  },
+  {
+    "station_name": "Paldi Kankaj"
+  },
+  {
+    "station_name": "Paldi Ahmedabad"
+  },
+  {
+    "station_name": "Pardhol"
+  },
+  {
+    "station_name": "Pasunj"
+  },
+  {
+    "station_name": "Pirana"
+  },
+  {
+    "station_name": "Polytechnic Ahmedabad"
+  },
+  {
+    "station_name": "Public Office Ahmedabad"
+  },
+  {
+    "station_name": "Raikhad"
+  },
+  {
+    "station_name": "Railway Colony Ahmedabad"
+  },
+  {
+    "station_name": "Railwaypura"
+  },
+  {
+    "station_name": "Raipur Ahmedabad"
+  },
+  {
+    "station_name": "Rajpur Gomtipur"
+  },
+  {
+    "station_name": "Rakhial"
+  },
+  {
+    "station_name": "Rakhial Udyog Vistar"
+  },
+  {
+    "station_name": "Ranip"
+  },
+  {
+    "station_name": "Ranodra"
+  },
+  {
+    "station_name": "Revdibazar"
+  },
+  {
+    "station_name": "S A C"
+  },
+  {
+    "station_name": "Sabarmati"
+  },
+  {
+    "station_name": "Saijpur"
+  },
+  {
+    "station_name": "Saijpur Bogha"
+  },
+  {
+    "station_name": "Sanathal"
+  },
+  {
+    "station_name": "Saraspur"
+  },
+  {
+    "station_name": "Sardarnagar"
+  },
+  {
+    "station_name": "Sarkhej Road"
+  },
+  {
+    "station_name": "Sarkhej"
+  },
+  {
+    "station_name": "Shah Alam Roza"
+  },
+  {
+    "station_name": "Shahibag"
+  },
+  {
+    "station_name": "Shahpur Ahmedabad"
+  },
+  {
+    "station_name": "Shahwadi"
+  },
+  {
+    "station_name": "Shardanagar"
+  },
+  {
+    "station_name": "Shastrinagar Ahmedabad"
+  },
+  {
+    "station_name": "Shela"
+  },
+  {
+    "station_name": "Sola H B C"
+  },
+  {
+    "station_name": "Stadium Marg"
+  },
+  {
+    "station_name": "Sub Foreign"
+  },
+  {
+    "station_name": "Sukhrampura"
+  },
+  {
+    "station_name": "T B Nagar"
+  },
+  {
+    "station_name": "Telav"
+  },
+  {
+    "station_name": "Thaltej Road"
+  },
+  {
+    "station_name": "Timba"
+  },
+  {
+    "station_name": "Undrel"
+  },
+  {
+    "station_name": "Vadaj"
+  },
+  {
+    "station_name": "Vadod"
+  },
+  {
+    "station_name": "Vasai"
+  },
+  {
+    "station_name": "Vasisthnagar"
+  },
+  {
+    "station_name": "Vastral"
+  },
+  {
+    "station_name": "Vatva"
+  },
+  {
+    "station_name": "Vehlal"
+  },
+  {
+    "station_name": "Vishalpur"
+  },
+  {
+    "station_name": "Zanu"
+  },
+  {
+    "station_name": "Ahmedabad G.P.O."
+  },
+  {
+    "station_name": "Abasana"
+  },
+  {
+    "station_name": "Adroda"
+  },
+  {
+    "station_name": "Adval"
+  },
+  {
+    "station_name": "Akru"
+  },
+  {
+    "station_name": "Alampur"
+  },
+  {
+    "station_name": "Alau"
+  },
+  {
+    "station_name": "Ambaliara"
+  },
+  {
+    "station_name": "Ambareli"
+  },
+  {
+    "station_name": "Andej"
+  },
+  {
+    "station_name": "Aniali K"
+  },
+  {
+    "station_name": "Aniali Bhimji"
+  },
+  {
+    "station_name": "Arnej"
+  },
+  {
+    "station_name": "Asalgam"
+  },
+  {
+    "station_name": "Ashoknagar"
+  },
+  {
+    "station_name": "Badarkha"
+  },
+  {
+    "station_name": "Bagad"
+  },
+  {
+    "station_name": "Bagodara"
+  },
+  {
+    "station_name": "Bajarda"
+  },
+  {
+    "station_name": "Bakrana"
+  },
+  {
+    "station_name": "Baldana"
+  },
+  {
+    "station_name": "Balsasan"
+  },
+  {
+    "station_name": "Bamroli"
+  },
+  {
+    "station_name": "Bamsara"
+  },
+  {
+    "station_name": "Barwala Ghelasha"
+  },
+  {
+    "station_name": "Bavaliary"
+  },
+  {
+    "station_name": "Bavla Market Yard"
+  },
+  {
+    "station_name": "Bavla"
+  },
+  {
+    "station_name": "Bhadaj"
+  },
+  {
+    "station_name": "Bhadana"
+  },
+  {
+    "station_name": "Bhadiad"
+  },
+  {
+    "station_name": "Bhangadh"
+  },
+  {
+    "station_name": "Bhankoda"
+  },
+  {
+    "station_name": "Bhayla"
+  },
+  {
+    "station_name": "Bhojwa"
+  },
+  {
+    "station_name": "Bholad"
+  },
+  {
+    "station_name": "Bhoyani"
+  },
+  {
+    "station_name": "Bhurkhi"
+  },
+  {
+    "station_name": "Bodia"
+  },
+  {
+    "station_name": "Bol"
+  },
+  {
+    "station_name": "Bordibazar Viramgam"
+  },
+  {
+    "station_name": "Buranpur"
+  },
+  {
+    "station_name": "Chaloda"
+  },
+  {
+    "station_name": "Chandarva"
+  },
+  {
+    "station_name": "Chandisar"
+  },
+  {
+    "station_name": "Chandlodia"
+  },
+  {
+    "station_name": "Chandranagar"
+  },
+  {
+    "station_name": "Changodar"
+  },
+  {
+    "station_name": "Charanki"
+  },
+  {
+    "station_name": "Charel"
+  },
+  {
+    "station_name": "Chekhla"
+  },
+  {
+    "station_name": "Chhabasar"
+  },
+  {
+    "station_name": "Chhaniar"
+  },
+  {
+    "station_name": "Chharodi"
+  },
+  {
+    "station_name": "Chhasiana"
+  },
+  {
+    "station_name": "Chiada"
+  },
+  {
+    "station_name": "Chokdi"
+  },
+  {
+    "station_name": "Chuval Dangarva"
+  },
+  {
+    "station_name": "Dabhsar"
+  },
+  {
+    "station_name": "Dadhana"
+  },
+  {
+    "station_name": "Daduka"
+  },
+  {
+    "station_name": "Dadusar"
+  },
+  {
+    "station_name": "Dalod"
+  },
+  {
+    "station_name": "Daran"
+  },
+  {
+    "station_name": "Daslana"
+  },
+  {
+    "station_name": "Dehgamda"
+  },
+  {
+    "station_name": "Dekawada"
+  },
+  {
+    "station_name": "Deo Dholera"
+  },
+  {
+    "station_name": "Detroj"
+  },
+  {
+    "station_name": "Devaliya"
+  },
+  {
+    "station_name": "Devpura"
+  },
+  {
+    "station_name": "Devtimoti"
+  },
+  {
+    "station_name": "Dhakdi"
+  },
+  {
+    "station_name": "Dhanala"
+  },
+  {
+    "station_name": "Dhandhuka"
+  },
+  {
+    "station_name": "Dhanwada"
+  },
+  {
+    "station_name": "Dharpipla"
+  },
+  {
+    "station_name": "Dhedasana"
+  },
+  {
+    "station_name": "Dhingada"
+  },
+  {
+    "station_name": "Dholera"
+  },
+  {
+    "station_name": "Dholi"
+  },
+  {
+    "station_name": "Dholka"
+  },
+  {
+    "station_name": "Digvijaynagar"
+  },
+  {
+    "station_name": "Dodar"
+  },
+  {
+    "station_name": "Dumana"
+  },
+  {
+    "station_name": "Durgi"
+  },
+  {
+    "station_name": "Endla"
+  },
+  {
+    "station_name": "Fangadi"
+  },
+  {
+    "station_name": "Fatepur"
+  },
+  {
+    "station_name": "Fedra"
+  },
+  {
+    "station_name": "Galsana"
+  },
+  {
+    "station_name": "Gamanpura"
+  },
+  {
+    "station_name": "Gamph"
+  },
+  {
+    "station_name": "Gangad"
+  },
+  {
+    "station_name": "Ganol"
+  },
+  {
+    "station_name": "Garodia"
+  },
+  {
+    "station_name": "Gatrad"
+  },
+  {
+    "station_name": "Ghatisana"
+  },
+  {
+    "station_name": "Ghoda"
+  },
+  {
+    "station_name": "Godhavata"
+  },
+  {
+    "station_name": "Godhavi"
+  },
+  {
+    "station_name": "Gogla"
+  },
+  {
+    "station_name": "Goraiya"
+  },
+  {
+    "station_name": "Goraj"
+  },
+  {
+    "station_name": "Gorasu"
+  },
+  {
+    "station_name": "Gota"
+  },
+  {
+    "station_name": "Gunda"
+  },
+  {
+    "station_name": "Gundi Sarvodaya Ashram"
+  },
+  {
+    "station_name": "Gunjala"
+  },
+  {
+    "station_name": "Gunjar"
+  },
+  {
+    "station_name": "Hansalpur"
+  },
+  {
+    "station_name": "Hathijan"
+  },
+  {
+    "station_name": "Hebatpur"
+  },
+  {
+    "station_name": "Hirapura"
+  },
+  {
+    "station_name": "Iawa Vasna"
+  },
+  {
+    "station_name": "Ingoli"
+  },
+  {
+    "station_name": "Jagatpur"
+  },
+  {
+    "station_name": "Jakhada"
+  },
+  {
+    "station_name": "Jakwada"
+  },
+  {
+    "station_name": "Jalalpur Vajifa"
+  },
+  {
+    "station_name": "Jalampur"
+  },
+  {
+    "station_name": "Jalila"
+  },
+  {
+    "station_name": "Jalisana"
+  },
+  {
+    "station_name": "Jaliya"
+  },
+  {
+    "station_name": "Jamp"
+  },
+  {
+    "station_name": "Jantanagar"
+  },
+  {
+    "station_name": "Jawaraj"
+  },
+  {
+    "station_name": "Jeska"
+  },
+  {
+    "station_name": "Jholapur"
+  },
+  {
+    "station_name": "Joshipura"
+  },
+  {
+    "station_name": "Junapadhar"
+  },
+  {
+    "station_name": "Juval"
+  },
+  {
+    "station_name": "Juval Rupavati"
+  },
+  {
+    "station_name": "Kadipur"
+  },
+  {
+    "station_name": "Kadvasan"
+  },
+  {
+    "station_name": "Kalana"
+  },
+  {
+    "station_name": "Kali"
+  },
+  {
+    "station_name": "Kalyangadh"
+  },
+  {
+    "station_name": "Kamiala"
+  },
+  {
+    "station_name": "Kamijala"
+  },
+  {
+    "station_name": "Kaneti"
+  },
+  {
+    "station_name": "Kankravadi"
+  },
+  {
+    "station_name": "Kanz"
+  },
+  {
+    "station_name": "Karakthal"
+  },
+  {
+    "station_name": "Katosan Road"
+  },
+  {
+    "station_name": "Kauka"
+  },
+  {
+    "station_name": "Kavitha"
+  },
+  {
+    "station_name": "Kelia Vasna"
+  },
+  {
+    "station_name": "Kerala"
+  },
+  {
+    "station_name": "Keria"
+  },
+  {
+    "station_name": "Kesardi"
+  },
+  {
+    "station_name": "Khadol"
+  },
+  {
+    "station_name": "Khambhada"
+  },
+  {
+    "station_name": "Khamidana"
+  },
+  {
+    "station_name": "Khandachora Dhandhuka"
+  },
+  {
+    "station_name": "Kharad"
+  },
+  {
+    "station_name": "Kharakuva Dholka"
+  },
+  {
+    "station_name": "Khas"
+  },
+  {
+    "station_name": "Khasta"
+  },
+  {
+    "station_name": "Khoda"
+  },
+  {
+    "station_name": "Khodiyar"
+  },
+  {
+    "station_name": "Khokarnesh"
+  },
+  {
+    "station_name": "Khorajnanoda"
+  },
+  {
+    "station_name": "Khudad"
+  },
+  {
+    "station_name": "Khun"
+  },
+  {
+    "station_name": "Kocharia"
+  },
+  {
+    "station_name": "Kointia"
+  },
+  {
+    "station_name": "Kokta"
+  },
+  {
+    "station_name": "Koth"
+  },
+  {
+    "station_name": "Kothadia"
+  },
+  {
+    "station_name": "Kukvav"
+  },
+  {
+    "station_name": "Kumarkhan"
+  },
+  {
+    "station_name": "Kundal"
+  },
+  {
+    "station_name": "Kundli"
+  },
+  {
+    "station_name": "Kunpur"
+  },
+  {
+    "station_name": "Kunvar"
+  },
+  {
+    "station_name": "Lapkaman"
+  },
+  {
+    "station_name": "Loliya"
+  },
+  {
+    "station_name": "Lothal Bhurkhi RS"
+  },
+  {
+    "station_name": "Madrisana"
+  },
+  {
+    "station_name": "Makhiav"
+  },
+  {
+    "station_name": "Mandal Ahmedabad"
+  },
+  {
+    "station_name": "Manipur"
+  },
+  {
+    "station_name": "Mankol"
+  },
+  {
+    "station_name": "Marusana"
+  },
+  {
+    "station_name": "Matoda"
+  },
+  {
+    "station_name": "Melaj"
+  },
+  {
+    "station_name": "Mingalpur"
+  },
+  {
+    "station_name": "Mithapur"
+  },
+  {
+    "station_name": "Modasar"
+  },
+  {
+    "station_name": "Moraiya"
+  },
+  {
+    "station_name": "Mota Tradia"
+  },
+  {
+    "station_name": "Moti Kishol"
+  },
+  {
+    "station_name": "Moti Boru"
+  },
+  {
+    "station_name": "Moti Rantai"
+  },
+  {
+    "station_name": "Moti Vavdi"
+  },
+  {
+    "station_name": "Nadishala"
+  },
+  {
+    "station_name": "Nana Ubhada"
+  },
+  {
+    "station_name": "Nani Boru"
+  },
+  {
+    "station_name": "Nani Devti"
+  },
+  {
+    "station_name": "Nani Vavdi"
+  },
+  {
+    "station_name": "Nanodara"
+  },
+  {
+    "station_name": "Navagam"
+  },
+  {
+    "station_name": "Navda"
+  },
+  {
+    "station_name": "Nayakpur"
+  },
+  {
+    "station_name": "Nedharad"
+  },
+  {
+    "station_name": "Nesda"
+  },
+  {
+    "station_name": "Ogan"
+  },
+  {
+    "station_name": "Ognaj"
+  },
+  {
+    "station_name": "Otaria"
+  },
+  {
+    "station_name": "Otaria Sarvodaya Ashram"
+  },
+  {
+    "station_name": "Padana"
+  },
+  {
+    "station_name": "Panar"
+  },
+  {
+    "station_name": "Panchham"
+  },
+  {
+    "station_name": "Panchhi"
+  },
+  {
+    "station_name": "Pandharpura"
+  },
+  {
+    "station_name": "Parabadi"
+  },
+  {
+    "station_name": "Pimpan"
+  },
+  {
+    "station_name": "Piplaj"
+  },
+  {
+    "station_name": "Pipli"
+  },
+  {
+    "station_name": "Pisawada"
+  },
+  {
+    "station_name": "Polarpur"
+  },
+  {
+    "station_name": "Rahemalpur"
+  },
+  {
+    "station_name": "Rajoda"
+  },
+  {
+    "station_name": "Rajpura"
+  },
+  {
+    "station_name": "Rakhiana"
+  },
+  {
+    "station_name": "Ramol"
+  },
+  {
+    "station_name": "Rampur"
+  },
+  {
+    "station_name": "Rampura"
+  },
+  {
+    "station_name": "Rampura Ahmedabad"
+  },
+  {
+    "station_name": "Ranesar"
+  },
+  {
+    "station_name": "Rangpur"
+  },
+  {
+    "station_name": "Ranoda"
+  },
+  {
+    "station_name": "Ranpur"
+  },
+  {
+    "station_name": "Rasam"
+  },
+  {
+    "station_name": "Rayka"
+  },
+  {
+    "station_name": "Refda"
+  },
+  {
+    "station_name": "Rethal"
+  },
+  {
+    "station_name": "Ribadi"
+  },
+  {
+    "station_name": "Rohika"
+  },
+  {
+    "station_name": "Rojid"
+  },
+  {
+    "station_name": "Rojka"
+  },
+  {
+    "station_name": "Rudatal"
+  },
+  {
+    "station_name": "Rupal"
+  },
+  {
+    "station_name": "Rupgadh"
+  },
+  {
+    "station_name": "Sachana"
+  },
+  {
+    "station_name": "Sadatpura"
+  },
+  {
+    "station_name": "Sahij"
+  },
+  {
+    "station_name": "Saiwada"
+  },
+  {
+    "station_name": "Salajada"
+  },
+  {
+    "station_name": "Salangpur Hanuman"
+  },
+  {
+    "station_name": "Salasar"
+  },
+  {
+    "station_name": "Sanand"
+  },
+  {
+    "station_name": "Sandhida"
+  },
+  {
+    "station_name": "Sangasar"
+  },
+  {
+    "station_name": "Sangpura"
+  },
+  {
+    "station_name": "Sankod"
+  },
+  {
+    "station_name": "Sarandi"
+  },
+  {
+    "station_name": "Sargwala"
+  },
+  {
+    "station_name": "Sari"
+  },
+  {
+    "station_name": "Saroda"
+  },
+  {
+    "station_name": "Sarsavadi"
+  },
+  {
+    "station_name": "Sathal"
+  },
+  {
+    "station_name": "Shahpur"
+  },
+  {
+    "station_name": "Sher"
+  },
+  {
+    "station_name": "Sherpura"
+  },
+  {
+    "station_name": "Shilaj"
+  },
+  {
+    "station_name": "Shivpura"
+  },
+  {
+    "station_name": "Shiyal"
+  },
+  {
+    "station_name": "Siawada"
+  },
+  {
+    "station_name": "Sihor"
+  },
+  {
+    "station_name": "Simej"
+  },
+  {
+    "station_name": "Sinaj"
+  },
+  {
+    "station_name": "Sindharej"
+  },
+  {
+    "station_name": "Sitapur"
+  },
+  {
+    "station_name": "Sobhasan"
+  },
+  {
+    "station_name": "Sodhi"
+  },
+  {
+    "station_name": "Sola"
+  },
+  {
+    "station_name": "Solgam"
+  },
+  {
+    "station_name": "Sunderiana"
+  },
+  {
+    "station_name": "Sunvala"
+  },
+  {
+    "station_name": "Tagadi"
+  },
+  {
+    "station_name": "Telavi"
+  },
+  {
+    "station_name": "Thaltej"
+  },
+  {
+    "station_name": "Thori Mubarak"
+  },
+  {
+    "station_name": "Thori Thumbha"
+  },
+  {
+    "station_name": "Thuleta"
+  },
+  {
+    "station_name": "Tragad"
+  },
+  {
+    "station_name": "Transad"
+  },
+  {
+    "station_name": "Trent"
+  },
+  {
+    "station_name": "Ughroj"
+  },
+  {
+    "station_name": "Ukardi"
+  },
+  {
+    "station_name": "Ukhlod"
+  },
+  {
+    "station_name": "Umrela"
+  },
+  {
+    "station_name": "Unchadi"
+  },
+  {
+    "station_name": "Upardal"
+  },
+  {
+    "station_name": "Utelia"
+  },
+  {
+    "station_name": "Vadgas"
+  },
+  {
+    "station_name": "Vadhela"
+  },
+  {
+    "station_name": "Vagad"
+  },
+  {
+    "station_name": "Valdhera"
+  },
+  {
+    "station_name": "Valhia"
+  },
+  {
+    "station_name": "Valinda"
+  },
+  {
+    "station_name": "Vanch"
+  },
+  {
+    "station_name": "Vani"
+  },
+  {
+    "station_name": "Vanpardi"
+  },
+  {
+    "station_name": "Vansva"
+  },
+  {
+    "station_name": "Vanthal"
+  },
+  {
+    "station_name": "Varmor"
+  },
+  {
+    "station_name": "Varna"
+  },
+  {
+    "station_name": "Vasna Iawa"
+  },
+  {
+    "station_name": "Vasna Chacharvadi"
+  },
+  {
+    "station_name": "Vasna"
+  },
+  {
+    "station_name": "Vataman"
+  },
+  {
+    "station_name": "Vatva Industrial Estate"
+  },
+  {
+    "station_name": "Vautha"
+  },
+  {
+    "station_name": "Vejalka"
+  },
+  {
+    "station_name": "Vekaria"
+  },
+  {
+    "station_name": "Vinchhan"
+  },
+  {
+    "station_name": "Vinchhiya"
+  },
+  {
+    "station_name": "Vinzol"
+  },
+  {
+    "station_name": "Vinzuvada"
+  },
+  {
+    "station_name": "Viramgam"
+  },
+  {
+    "station_name": "Virdi"
+  },
+  {
+    "station_name": "Virochannagar"
+  },
+  {
+    "station_name": "Vithlpura"
+  },
+  {
+    "station_name": "VivekanandNagar"
+  },
+  {
+    "station_name": "Zanzarka"
+  },
+  {
+    "station_name": "Zanzarva"
+  },
+  {
+    "station_name": "Zezra"
+  },
+  {
+    "station_name": "Zinzar"
+  },
+  {
+    "station_name": "Ambalia"
+  }
+]

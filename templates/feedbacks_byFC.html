@@ -1,0 +1,60 @@
+{% extends 'GC_base.html' %}
+
+{% block title %} Feedbacks {% endblock title %}
+
+{% block content %}
+
+
+<!-- Page content -->
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-xl-12 order-xl-1">
+      <div class="card">
+        <div class="card-header">
+          <div class="row align-items-center">
+            <div class="col-8">
+              <h3 class="mb-0">Feedback </h3>
+            </div>
+          </div>
+        </div>
+        <!-- FeedBack -->
+        <div class="pl-lg-4">
+          <form action="" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+              <label class="form-control-label">Give Feedback</label>
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-first-name">Title</label>
+                    <input type="text" id="input-first-name" class="form-control" name="title"
+                      placeholder="Appreciate or Complain according to work">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="form-group">
+                    <label class="form-control-label" for="detailed_description">Detailed Description</label>
+                    <textarea rows="4" class="form-control" name="detailed_description" placeholder="Describe in detail "></textarea>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 text-right">
+                <button href="#!" class="btn btn-sm btn-primary">Send</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+{% endblock content %}
+
+<!-- Specific JS goes HERE -->
+{% block javascripts %}{% endblock javascripts %}
